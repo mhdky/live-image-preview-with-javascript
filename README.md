@@ -2,7 +2,7 @@
 
 [mhdky.github.io/live-image-preview-with-javascript/](https://mhdky.github.io/live-image-preview-with-javascript/)
 
-Kode sumber : [Web Programming Unpas](https://youtu.be/4fDp3vsGSWg?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&t=59)
+Kode referensi : [Web Programming Unpas](https://youtu.be/4fDp3vsGSWg?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&t=59)
 
 Image preview adalah sebuah fitur pada aplikasi web yang memungkinkan pengguna untuk melihat gambar yang akan diunggah ke server sebelum gambar tersebut benar-benar diunggah. Dengan menggunakan fitur ini, pengguna dapat memastikan bahwa gambar yang akan diunggah benar-benar sesuai dengan keinginan mereka dan memperbaiki gambar tersebut jika diperlukan sebelum melakukan proses unggah.
 
